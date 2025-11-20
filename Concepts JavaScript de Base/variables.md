@@ -7,8 +7,6 @@ We use them to store data, and use them later by calling them by their names. Th
 
 ---
 
-## Site Structure  
-
 **var:** it can be use globaly, we can redeclare it again, when we declare it for the first time it assigned as undefined
 
 for example: 
